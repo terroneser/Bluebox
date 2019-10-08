@@ -24,7 +24,6 @@ nav ul li a:hover, .menu-activo{
 }
 #menu-header{
 	padding-left: 40px;
-	padding-right: 15px;
 }
 #buscador-header{
 	margin-top: 10px;
@@ -112,25 +111,34 @@ nav ul li h1{
 }
 /*inicio gris ctrl+alt+shift+i*/
 #menu-header2{
-	padding-top: 50px;
-	padding-bottom:70px;
-	padding-left: 190px;
+	padding-top: 40px;
+	padding-bottom:80px;
+	padding-left: 200px;
 	background-color: #31333e
 }
-#menu-header2 nav-2 ul li a{
+#menu-header2 nav ul li a{
 	text-decoration: none; color: #ffffff; font-size: 12px; font-family: 'PT Sans', sans-serif; padding: 0px 10px;
 	border-right: 1px solid #ffffff;
 }
-nav-2 ul{
+nav ul{
 	list-style:none; padding-left:0;
 }
-nav-2 ul li{
+nav ul li{
 	display:inline-block;
 }
-nav-2 ul li:first-child a{
+#header-bottom nav ul li:first-child a{
 	padding-left: 0;
 }
-nav-2 ul li:last-child a{
-	padding-right: 0px;
-	border-right: none;
+#header-bottom nav ul li:last-child a{
+	padding-right: 0px; border-right: none;
+}
+/*logos*/
+#logos{
+	padding-top: 55px;
+	padding-bottom:0px;
+	padding-left: 230px;
+	background-color: #31333e
+}
+img{
+	padding-left: 9px;
 }
