@@ -2,7 +2,7 @@
 	padding-top: 30px;
 	padding-bottom: 40px;
 	padding-left:200px;
-	padding-right: 100px;
+	padding-right: 200px;
 }
 nav{margin-top: 13px;}
 nav ul{
@@ -23,14 +23,14 @@ nav ul li a:hover, .menu-activo{
 	color:#00aeff;
 }
 #menu-header{
-	padding-left: 40px;
+	padding-left: 50px;
 }
 #buscador-header{
 	margin-top: 10px;
-	padding-right: 15px;
+	padding-right: 0px;
 }
 #menu-subheader{
-	padding: 0px 35px;
+	padding: 0px 0px;
 }
 nav ul li h3{
 	text-decoration: none; color: #7c7d7e; font-size: 15px; margin: 0px;
@@ -38,7 +38,8 @@ nav ul li h3{
 }
 #header-2{
 	background-color:#e2e7ed;
-	padding-left:180px;
+	padding-left:200px;
+	padding-right: 200px;
 }
 nav ul li h2{
 	text-decoration: none;color: #626262; font-size: 45px;padding: 20px 30px;font-family: PT Sans, sans-serif;
@@ -46,7 +47,7 @@ nav ul li h2{
 #header-3{
 	background-color:#908ef3;
 	padding-left: 200px;
-	padding-right: 250px;
+	padding-right: 200px;
 	padding-bottom: 60px;
 }
 nav ul li h4{
@@ -71,7 +72,7 @@ article ul li p{
 #header-4{
 	background-color:#58d99c;
 	padding-left: 200px;
-	padding-right: 250px;
+	padding-right: 200px;
 	padding-bottom: 60px;
 }
 nav ul li h5{
@@ -85,7 +86,7 @@ nav ul li h5{
 #header-5{
 	background-color:#f4776d;
 	padding-left: 200px;
-	padding-right: 250px;
+	padding-right: 200px;
 	padding-bottom: 60px;
 }
 nav ul li h6{
@@ -99,7 +100,7 @@ nav ul li h6{
 #header-6{
 	background-color:#edca52;
 	padding-left: 200px;
-	padding-right: 250px;
+	padding-right: 200px;
 	padding-bottom: 60px;
 }
 nav ul li h1{
@@ -130,13 +131,14 @@ nav ul li{
 	padding-left: 0;
 }
 #header-bottom nav ul li:last-child a{
-	padding-right: 0px; border-right: none;
+	border-right: none;
 }
 /*logos*/
 #logos{
 	padding-top: 55px;
 	padding-bottom:0px;
-	padding-left: 230px;
+	padding-left: 200px;
+	padding-right: 200px;
 	background-color: #31333e
 }
 img{
